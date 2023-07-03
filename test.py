@@ -1,4 +1,4 @@
-from sqlmesh
+import sqlmesh
 
 # Create an instance of the SQLMesh class
 mesh = SQLMesh(config_path='config.yaml')
